@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/bodgit/ntlmssp"
+	ntlmssp "github.com/CalypsoSys/bobntlmssp"
 	"github.com/hashicorp/go-cleanhttp"
 )
 
