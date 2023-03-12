@@ -1,5 +1,5 @@
-github.com/CalypsoSys/bobntlmssp v0.0.0-20230311162746-32be8fb5b6bc h1:uUbFH8UAi+vwGVK/QoZN/xsn4/fUgWLjJgl1JMkLYX0=
-github.com/CalypsoSys/bobntlmssp v0.0.0-20230311162746-32be8fb5b6bc/go.mod h1:V4/5v3B4jBUV3Za4ZTHaBVyQ9eX348zFo00vuzOKRoE=
+github.com/CalypsoSys/bobntlmssp v0.0.0-20230312115136-b4cda1944a8a h1:v8zWqgOSzch0HvpjW5/Zz5J95c/XSQ9hdae9wpUcvRI=
+github.com/CalypsoSys/bobntlmssp v0.0.0-20230312115136-b4cda1944a8a/go.mod h1:ziA6Rckn4IMlV7Xme0p8gP78bAokgonf/L4oAuq1xnU=
 github.com/bodgit/windows v1.0.1 h1:tF7K6KOluPYygXa3Z2594zxlkbKPAOvqr97etrGNIz4=
 github.com/bodgit/windows v1.0.1/go.mod h1:a6JLwrB4KrTR5hBpp8FI9/9W9jJfeQ2h4XDXU74ZCdM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

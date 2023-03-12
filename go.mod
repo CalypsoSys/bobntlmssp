@@ -18,4 +18,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/bodgit/ntlmssp => github.com/CalypsoSys/bobntlmssp v0.0.0-20230311162746-32be8fb5b6bc
+replace github.com/bodgit/ntlmssp => github.com/CalypsoSys/bobntlmssp v0.0.0-20230312115136-b4cda1944a8a
